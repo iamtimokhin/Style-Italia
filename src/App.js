@@ -46,27 +46,21 @@ export default function App() {
             <DividerGradient direction="right" />
             <Content>
               <Statistics />
-
               <DividerGradient direction="left" />
-              <Advantages />
 
+              <Advantages />
               <DividerGradient direction="right" />
               <Gallery />
-
               <DividerGradient direction="left" />
-              {/* Если PartnersSection используется, вставь сюда */}
-              {/* <PartnersSection /> */}
-
-              <DividerGradient direction="right" />
               <Contacts />
 
-              <DividerGradient direction="left" />
+              <DividerGradient direction="right" />
               <YandexMapEmbed />
 
-              <DividerGradient direction="right" />
+              <DividerGradient direction="left" />
               <ThemeButton />
 
-              <DividerGradient direction="left" />
+              <DividerGradient direction="right" />
               <ProfileFooter {...footerData} />
             </Content>
             <ScrollToTopFab />

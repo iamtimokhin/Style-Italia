@@ -1,33 +1,23 @@
 const examples = [
   {
-    img: "/images/examples/TV.jpg",
-    title: "Ремонт телевизоров",
-    description: "Ремонт телевизоров LCD, LED",
+    img: "/images/examples/Elena1.jpg",
+    title: "Лёгкий сет",
+    description: "Лёгкий летний сет: юбка и футболка",
   },
   {
-    img: "/images/examples/washmachine.jpg",
-    title: "Ремонт стиральных машин",
-    description: "Ремонт стиральных машин",
+    img: "/images/examples/Elena2.jpg",
+    title: "Бежевое платье",
+    description: "Бежевое платье в лаконичном стиле",
   },
   {
-    img: "/images/examples/microwave.jpg",
-    title: "Ремонт микроволновых печей",
-    description: "Ремонт микроволновых печей",
+    img: "/images/examples/Elena3.jpg",
+    title: "Чёрное платье и накидка",
+    description: "Стильное чёрное платье с лёгкой накидкой",
   },
   {
-    img: "/images/examples/wave.jpg",
-    title: "Ремонт керамических кухонных плит",
-    description: "Ремонт керамических кухонных плит",
-  },
-  {
-    img: "/images/examples/Phone.jpg",
-    title: "Ремонт сотовых телефонов",
-    description: "Ремонт сотовых телефонов",
-  },
-  {
-    img: "/images/examples/systemblock.jpg",
-    title: "Ремонт системных блоков",
-    description: "Ремонт системных блоков",
+    img: "/images/examples/Elena4.jpg",
+    title: "Салатовое платье и ремень",
+    description: "Стильное салатовое платье с ремнём в комплекте",
   },
 ];
 

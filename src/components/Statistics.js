@@ -20,7 +20,7 @@ function Statistics() {
         color={colors.profileHeader.typographyColor}
         sx={{ textAlign: "center" }}
       >
-        Наши достижения в цифрах
+        Обо мне в цифрах на Авито
       </Typography>
 
       <Box

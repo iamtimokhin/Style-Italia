@@ -1,11 +1,11 @@
-import AvatarImg from "..//assets/Yaroslav_Nikolaevich.png";
+import AvatarImg from "..//assets/Elena_Ratkovskaya.png";
 import { ReactComponent as Verify } from "..//assets/verify.svg";
 
 const profileData = {
-  name: "Ярослав Николаевич",
-  phone: "+79126818186",
-  email: "yar-pomaskin@yandex.ru",
-  status: "Основатель и управляющий сервиса «Телемастерская»",
+  name: "Елена Ратковская",
+  phone: "+79122454622",
+  email: "ms.rl78.78@mail.ru",
+  status: "Основатель и управляющая магазина «Style Italia»",
   icon: Verify,
   image: AvatarImg,
 };

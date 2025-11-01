@@ -97,8 +97,8 @@ function YandexMapEmbed() {
               color={colors.profileHeader.typographyColor || "#ccc"}
               sx={{ textAlign: "center", opacity: 0.9 }}
             >
-              График работы: ПН - ПТ с 10:00 - 18:00 ( обед с 13:00 - 14:00 );
-              СБ с 10:00-13:00
+              График работы: ПН - ПТ с 13:00 - 18:00 ( по записи ); СБ, ВС ( по
+              записи )
             </Typography>
 
             <Box

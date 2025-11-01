@@ -19,7 +19,7 @@ function Advantages() {
         color={colors.profileHeader.typographyColor}
         sx={{ textAlign: "center" }}
       >
-        Почему выбирают "Телемастерскую"
+        Почему выбирают Авито Доставку
       </Typography>
 
       <Box

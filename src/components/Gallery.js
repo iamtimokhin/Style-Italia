@@ -36,7 +36,7 @@ export default function Gallery() {
     setLoading(true);
     setTimeout(() => {
       window.open(
-        "https://2gis.ru/user/028db38967614a4c8ef567697666f9d6",
+        "https://www.avito.ru/brands/i86132169?src=sharing",
         "_blank"
       );
       setLoading(false);
@@ -55,7 +55,7 @@ export default function Gallery() {
         color={colors.profileHeader.typographyColor}
         sx={{ textAlign: "center" }}
       >
-        Техника, которую мы чиним
+        Товары, которые можно встретить на Авито
       </Typography>
 
       <ImageList cols={2} gap={12}>
@@ -98,7 +98,7 @@ export default function Gallery() {
         color={colors.profileHeader.typographyColor || "#ccc"}
         sx={{ textAlign: "center", opacity: 0.9 }}
       >
-        Все прочие виды техники обговариваются отдельно
+        Есть и офлайн-магазин: всё можно примерить и оценить качество
       </Typography>
 
       {/* Кнопка под адресом */}
@@ -130,7 +130,7 @@ export default function Gallery() {
             position: "relative",
           }}
         >
-          {loading ? <ThemedCircularProgress size={24} /> : "Перейти на 2GIS"}
+          {loading ? <ThemedCircularProgress size={24} /> : "Перейти на Авито"}
         </Button>
       </Box>
 
